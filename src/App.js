@@ -22,7 +22,7 @@ function App() {
 
   };
   useEffect(() => {
-    onChange({hex: '#CCC'})
+    onChange({hex: '#FFA500'})
   }, []);
   
 
